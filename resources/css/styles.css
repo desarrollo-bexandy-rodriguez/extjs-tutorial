@@ -1,0 +1,12 @@
+.x-panel-header-navigation-vertical {
+	background-color: transparent !important;
+}
+.x-panel-header-navigation {
+	background-color: transparent !important;
+}
+
+.array-grid-buy-col:before{font:18px/1 FontAwesome;color:#81cb31;content:"\f058"}
+.array-grid-sell-col:before{font:18px/1 FontAwesome;color:#dd6550;content:"\f056"}
+.array-grid-alert-col:before{font:18px/1 FontAwesome;color:#ffc839;content:"\f071"}
+.cell-editing-delete-row:before{font:18px/1 FontAwesome;color:#dd6550;content:"\f056"}
+.bold-me { font-weight: bold; }
